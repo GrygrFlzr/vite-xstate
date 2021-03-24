@@ -1,0 +1,20 @@
+{
+	"name": "vite-xstate",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"type": "module",
+	"scripts": {
+		"dev": "node server"
+	},
+	"author": "GrygrFlzr <grygrflzr@hotmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/express": "^4.17.11",
+		"express": "^4.17.1",
+		"vite": "^2.1.2"
+	},
+	"dependencies": {
+		"xstate": "^4.17.0"
+	}
+}
